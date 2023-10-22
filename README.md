@@ -1,9 +1,5 @@
 
-# ForkTraining on Amy's machine
+# Amy's machine
 
-helooooooooooo
-
-this is a commit from my original git account (BCFCODE)
-this is another commit
-Hi BOSS!!
+Ok, this edit done by base(personal account | owner of rep) 
 
