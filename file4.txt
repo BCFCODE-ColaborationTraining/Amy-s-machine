@@ -1,4 +1,5 @@
 hello
 
 world
-newConflict
+newConflict Edited more
+this is another line as you command sir!
